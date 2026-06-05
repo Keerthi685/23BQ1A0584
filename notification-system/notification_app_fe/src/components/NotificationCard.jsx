@@ -2,9 +2,9 @@ const NotificationCard = ({ notification }) => {
   return (
     <div
       style={{
-        border: "1px solid #ccc",
-        margin: "10px 0",
-        padding: "10px",
+        border: "1px solid gray",
+        padding: "12px",
+        marginBottom: "10px",
         borderRadius: "8px",
       }}
     >
